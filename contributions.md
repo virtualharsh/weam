@@ -46,12 +46,12 @@
 
 ## 🏆 Team 4
 
-- **Repository Link:** [Repo URL]
+- **Repository Link:** [https://github.com/weam-ai/t4.git]
 
 ### 👥 Members
 | Name | GitHub Profile |
 |------|----------------|
-| Member 1 | [@username](https://github.com/username) |
+| Member 1 | [@sachinsudani](https://github.com/sachinsudani) |
 | Member 2 | [@username](https://github.com/username) |
 | Member 3 | [@username](https://github.com/username) |
 | Member 3 | [@username](https://github.com/username) |
